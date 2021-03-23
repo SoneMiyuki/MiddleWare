@@ -224,4 +224,4 @@ Java中可以由主线程派生其他线程，也可以由其他线程派生其�
  * 可以考虑自行指定port的方法
 ---
 项目链接地址：
-https://github.com/SoneMiyuki/MiddleWare/lab1-Mychat/1.0
+https://github.com/SoneMiyuki/MiddleWare/tree/main/lab1-Mychat/1.0
